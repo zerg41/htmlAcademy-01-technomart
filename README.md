@@ -1,2 +1,5 @@
 # htmlAcademy-01-technomart
- Интернет-магазин строительных материалов "Техномарт". Учебный проект HTML Academy | Профессия "Фронтенд-разработчик" | Модуль 1
+HTML Academy Education Project 
+Frontend Developer Course | Module 1. HTML и CSS. Professional website development.
+## Online store of building materials "Technomart"
+*In Progress*
